@@ -1,4 +1,4 @@
-package io.liferay.curse;
+package com.liferay.curse;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
